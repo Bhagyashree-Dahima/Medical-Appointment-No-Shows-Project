@@ -1,5 +1,3 @@
-# Medical-Appointment-No-Shows-Project
-
 # 🏥 Medical Appointment No-Show Analysis
 
 A SQL + Tableau project analyzing patient appointment no-show patterns using the [Medical Appointment No Shows dataset](https://www.kaggle.com/datasets/joniarroba/noshowappointments?resource=download) (110,527 appointments from public healthcare facilities in Brazil).
